@@ -78,4 +78,6 @@ condicionesIniciales();
 
 // ctrl + f: Para buscar valores duplicados
 
-// Posicionandome en la parte superior de GitHub, seleccionamos el atajo .(punto), nos habilitada un editor de codigo de Visual Studio Code en linea
+// Posicionandome en la parte superior de GitHub, seleccionamos el atajo .(punto), nos habilita un editor de codigo de Visual Studio Code en linea
+
+// Si estamos logueado a GitHub, en otra pestaña podemos ingresar (repo.new), se nos habilita la opción para crear un nuevo repositorio.
