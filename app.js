@@ -2,7 +2,7 @@ let numeroSecreto = 0;
 let intentos = 0;
 let listaDeNumerosSorteado = [];
 let numeroMaximo = 10;
-// console.log(numeroSecreto);s
+// console.log(numeroSecreto);
 
 // let parrafo = document.querySelector('p');
 // parrafo.innerHTML = 'Indica un número del 1 al 10';
