@@ -77,3 +77,5 @@ function reiniciarJuego() {
 condicionesIniciales();
 
 // ctrl + f: Para buscar valores duplicados
+
+// Posicionandome en la parte superior de GitHub, seleccionamos el atajo .(punto), nos habilitada un editor de codigo de Visual Studio Code en linea
